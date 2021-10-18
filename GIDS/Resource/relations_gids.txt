@@ -1,0 +1,5 @@
+/people/deceased_person/place_of_death
+/people/person/place_of_birth
+NA
+/people/person/education./education/education/institution
+/people/person/education./education/education/degree
